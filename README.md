@@ -12,7 +12,9 @@ mkdir folder name?
 >mkdir new_folder creates a directory named "new_folder" in the current location.
 >You can also create multiple directories at once, like mkdir folder1 folder2. Use mkdir -p to create nested directories, e.g., mkdir -p parent/child.
 
->touch file name .py?
+
+
+>touch filename.py?
 >The touch command is used in the command line to create new, empty files or update the timestamps of existing files.
 >touch file.txt creates an empty file named file.txt
 >If file.txt already exists, it updates its modification time.
