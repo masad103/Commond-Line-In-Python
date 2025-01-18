@@ -12,15 +12,14 @@ mkdir folder name?
 >mkdir new_folder creates a directory named "new_folder" in the current location.
 >You can also create multiple directories at once, like mkdir folder1 folder2. Use mkdir -p to create nested directories, e.g., mkdir -p parent/child.
 
-ls command?
->The ls command in Linux/Unix is used to list the contents of a directory. It displays files, directories, and their attributes. Common options include:
->show which data in this file
-
 >touch file name .py?
-
 >The touch command is used in the command line to create new, empty files or update the timestamps of existing files.
 >touch file.txt creates an empty file named file.txt
 >If file.txt already exists, it updates its modification time.
+
+ls command?
+>The ls command in Linux/Unix is used to list the contents of a directory. It displays files, directories, and their attributes. Common options include:
+>show which data in this file
 
 
 rm with folder name or file name?
