@@ -19,7 +19,8 @@ mkdir folder name?
 >If file.txt already exists, it updates its modification time.
 
 code filename.py?
->this commmand use for move this python file in vs code 
+>this commmand use for move this python file in vs code
+>if file not ceated early, then use direct command to create new file and move to vs code is code filename2.py
 
 
 ls command?
