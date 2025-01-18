@@ -17,6 +17,7 @@ ls command?
 >show which data in this file
 
 >touch file name .py?
+
 >The touch command is used in the command line to create new, empty files or update the timestamps of existing files.
 >touch file.txt creates an empty file named file.txt
 >If file.txt already exists, it updates its modification time.
