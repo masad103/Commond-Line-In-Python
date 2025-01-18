@@ -34,11 +34,40 @@ rm with folder name or file name?
 >rm -r folder deletes the directory folder and its contents recursively.
 >Use with caution, as deleted files cannot be easily recovered.
 
+clear command?
+>use for clear the terminal 
+
 
 cd .. commond line?
 >The cd .. command is used in the command line to move up one level to the parent directory of the current working directory.
 >If you are in /home/user/documents, running cd .. will take you to /home/user.
 >It’s useful for navigating backward in the file system hierarchy.
+
+mv command?
+>The mv command in Linux/Unix is used to move or rename files and directories.
+>mv old_name new_name(this command use for rename the file)
+>mv filename.py ./folder name(this commond use for move file from one folder to another)
+>mv filename.py .. (this command use for back one step)
+
+cp filename.py ./fodername.py?
+>this cp commond use for copy file and here cp with file name.py use and ./foldername.py use where file move after copy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
