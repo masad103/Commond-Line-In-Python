@@ -46,8 +46,11 @@ cd .. commond line?
 mv command?
 
 >The mv command in Linux/Unix is used to move or rename files and directories.
+
 >mv old_name new_name(this command use for rename the file)
+
 >mv filename.py ./folder name(this commond use for move file from one folder to another)
+
 >mv filename.py .. (this command use for back one step)
 
 cp filename.py ./fodername.py?
