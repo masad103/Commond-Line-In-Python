@@ -18,6 +18,10 @@ mkdir folder name?
 >touch file.txt creates an empty file named file.txt
 >If file.txt already exists, it updates its modification time.
 
+code filename.py?
+>this commmand use for move this python file in vs code 
+
+
 ls command?
 >The ls command in Linux/Unix is used to list the contents of a directory. It displays files, directories, and their attributes. Common options include:
 >show which data in this file
